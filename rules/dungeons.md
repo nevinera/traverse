@@ -49,7 +49,8 @@ The GM also gets cards, which will be listed in the guide for each dungeon.
 These cards always describe the circumstances in which they can be used, and
 mostly can only be used once per dungeon. The GM starts each dungeon with no
 cards, and draws one at the end of each turn, unless he has at least three in
-his hand already.
+his hand already. At the beginning of each turn, he may choose to discard one
+Of his cards.
 
 
 
