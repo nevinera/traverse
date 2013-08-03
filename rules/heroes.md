@@ -2,7 +2,7 @@
 
 A Hero's capabilities are determined solely by the skills that he chooses initially
 and after each dungeon. There are six primary skills and six secondary skills - you start
-each campaign with one of each. Each skill comes with a skill card containing passive
+each campaign with two. Each skill comes with a skill card containing passive
 bonuses and occasionally abilities that are permanently available, and comes with a pool
 of ability cards that may be included in a hero deck. The reverse side of each skill card
 contains a list of the cards in its pool, and any restrictions on their inclusion - many
@@ -32,10 +32,10 @@ The six secondary skills, two ranks each of:
 Heroes start at level one with a rank 1 primary skill and another rank 1 skill,
 for a total of 40-60 cards (all heroes must pick different starting skills). After each
 dungeon is completed, every hero gains one new skill rank who's prerequisites he
-satisfies. Primary skills require level 1, 3, 5 for raks 1, 2, and 3; secondary skills
+satisfies. Primary skills require level 1, 3, 5 for ranks 1, 2, and 3; secondary skills
 have no level requirement. Any skill rank requires all of the lower ranks in the same skill.
 
-Two heroes /may/ possess the same rank of a skill, but they will have to share the card
+Two heroes *may* possess the same rank of a skill, but they will have to share the card
 pool for that skill; if it cannot be managed equitably then deal half randomly to each player
 to use as their card pool. A third hero may not gain the skill, as there are only two copies
 of each skill card.
@@ -43,7 +43,7 @@ of each skill card.
 ## Primary vs Secondary
 
 There is nothing stopping a player from taking a second primary skill instead of a secondary
-skill. The two have different purposes - primary skills are focus on actions, and have large
+skill. The two have different purposes - primary skills are focused on actions, and have large
 card pools to draw from, while secondary skills focus on strong passive bonuses and have small
 pools. At ranks 1, 2, and 3 the primary skills have pools of thirty, twenty and fifteen cards;
 ranks 1 and 2 of the secondaries provide ten and six respectively.
