@@ -53,23 +53,22 @@ ranks 1 and 2 of the secondaries provide ten and six respectively.
 Each hero starts the dungeon with a deck of 40 cards in hand, most of them actions to perform.
 Aside from the actions described on those cards, he has several ways to spend his AP:
 
-- movement: you can buy movement points at a cost of 1AP for 2MP
-- basic attack (3AP) 2d6 melee attack
-- defensive posture (2AP) gain one defense die until your next turn
+- movement: you can buy movement points at a cost of 1AP for 1MP
+- basic attack (3AP) 2pb melee attack
+- defensive posture (2AP) gain one defense die (magical and physical) until your next turn
 - discard (1AP) discard one card from your hand
 
-There are some consumables that allow you to regain some of your used cards, and Fists
-has a built-in ability to that effect, but your deck is your source of power. Try to
-save some cards for the boss!
+There are some consumables and abilities that allow you to regain some of your used cards,
+but your deck is your source of power. Try to save some cards for the boss!
 
 Heroes initially get three MP and five AP each turn. Their basic attack is 2d6, and they have
-one defense die. They have 10HP, and roll 3d6 for initiative. They get bonuses to these numbers
+one defense die. They have 10HP, and have a handsize of 5. They get bonuses to these numbers
 as follows:
 
 - level 2: +1 MP, +5 HP
-- level 3: +1 def, +5 HP
-- level 4: +1 AP, +5 HP
-- level 5: +1 MP, +1 atk, +5 HP
+- level 3: +1 defense die, +1 attack bonus, +10 HP
+- level 4: +1 AP, +1 attack bonus, +15 HP
+- level 5: +1 MP, +1 hand size, +20 HP
 
 ## Consumables
 
