@@ -36,8 +36,8 @@ and some flavor text. Then the Heroes and GM all construct the deck with
 which they will play the dungeon. The GMs deck is specified by the guide
 for that dungeon level, but the Heroes can use any cards from pools they
 have access to (though some skills specify requirements in order to include
-cards from their pools). The dungeon will specify how large hero decks are
-to be - generally speaking, larger dungeons require bigger decks.
+cards from their pools). For levels 1-5, hero decks contain exactly forty cards;
+higher level dungeons may require larger decks later on.
 
 The GM will set up the initial room of the dungeon, the heroes will be
 placed inside, and play commences.
@@ -66,12 +66,5 @@ Movement Points allow you to move a space in any direction (including diagonally
 but not across corners). Some spaces require more than one Movement Point, and
 some effects increase the cost of movement - one cannot move part of a square.
 
-Action Points allow you to do many things:
-
-* Buy MP (two MP per AP)
-* Play Action cards (cost is described on the card)
-* Make a Basic Attack
-* Perform any 'Inherent' actions available
-  (these are described on skill cards)
-* Play Reaction cards (in response to another player action
-* Attach Improvement cards to an action you are performing
+Action Points allow you to do many things, which are described fully in the
+heroes file.
