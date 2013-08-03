@@ -62,3 +62,11 @@ There are some consumables that allow you to regain some of your used cards, and
 has a built-in ability to that effect, but your deck is your source of power. Try to
 save some cards for the boss!
 
+Heroes initially get three MP and five AP each turn. Their basic attack is 2d6, and they have
+one defense die. They have 10HP, and roll 3d6 for initiative. They get bonuses to these numbers
+as follows:
+
+- level 2: +1 MP, +5 HP
+- level 3: +1 def, +5 HP
+- level 4: +1 AP, +5 HP
+- level 5: +1 MP, +1 atk, +5 HP
