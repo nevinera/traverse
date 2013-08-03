@@ -8,9 +8,8 @@ you.
 
 ## Rank One
 
-Passives:
-- +1 defense die against bashing attacks
-- physical attacks against allies while adjacent to you provoke an AO from you
+Passive: +1 defense die against bashing attacks
+Passive: physical attacks against allies while adjacent to you provoke an AO from you
 
 - Taunt x 3
 - Shield Block x 3
