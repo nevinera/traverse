@@ -5,7 +5,7 @@ Passive: after any blood attack that deals damage, roll a die. On 4+, gain 1 HP
 #### Heart Burn (x6)
 
 - Spell Attack
-- 6 AP
+- 5 AP
 - Range(3)
 - 3mb+1
 
@@ -14,7 +14,7 @@ For each damage dealt, roll a die - on 4+, one hero in range(3) gains 1 HP
 #### Blood Surge (x5)
 
 - Spell Attack
-- 7 AP
+- 5 AP
 - Range(3)
 - 2mb, 3mb
 
@@ -25,7 +25,7 @@ for each damage dealt, that ally gains 1 HP
 #### Transfusion (x5)
 
 - Spell Heal
-- 3 AP
+- 2 AP
 - Range(2)
 
 Pay one HP: target ally in range(2) gains 1d6 HP
@@ -33,7 +33,7 @@ Pay one HP: target ally in range(2) gains 1d6 HP
 #### Vampric Touch (x4)
 
 - Spell Attack
-- 5 AP
+- 3 AP
 - Melee
 - 3md+1
 
@@ -43,7 +43,7 @@ May be defended as magical or physical.
 #### Drain Life (x3)
 
 - Spell attack
-- 4 AP
+- 2 AP
 - Range(3)
 
 Afflict one enemy. At the start of their turn they roll 1d6:
@@ -53,7 +53,7 @@ Afflict one enemy. At the start of their turn they roll 1d6:
 #### Confuse (x2)
 
 - Spell Attack
-- 3 AP
+- 2 AP
 - Melee
 
 Target unit rolls 1d6:
@@ -63,7 +63,7 @@ Target unit rolls 1d6:
 #### Sacrifice (x2)
 
 - Healing Spell
-- 3 AP
+- 2 AP
 - Melee
 
 Pay up to 5 HP: target ally gains twice that much HP.
@@ -71,7 +71,7 @@ Pay up to 5 HP: target ally gains twice that much HP.
 #### Flay (x2)
 
 - Spell Attack
-- 6 AP
+- 4 AP
 - Range(4)
 - 4mb+1
 
