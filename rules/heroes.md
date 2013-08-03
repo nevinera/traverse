@@ -70,3 +70,27 @@ as follows:
 - level 3: +1 def, +5 HP
 - level 4: +1 AP, +5 HP
 - level 5: +1 MP, +1 atk, +5 HP
+
+## Consumables
+
+Consumable cards may be gained during play; they are frequently found in chests in the dungeon,
+and may also be offered as rewards for completing side-goals and defeating bosses. Some basic
+consumables are listed below, but they are varied, and many are secret until received.
+
+Consumables may be shuffled into the heroes' decks before each dungeon - a maximum of five consumables
+may be included each time. When a consumable is found during a dungeon, the hero who finds it has
+the *option* to immediately shuffle it into his current deck (consumables received by the whole group
+may be assigned to any hero). When a consumable is used, it immediately is returned to the GM; if it
+is not used, the hero may keep it and include it again another day.
+
+A consumable need not be used when it is played - the hero may place it in front of him during his
+turn for free, and only pays its cost if and when he uses it.
+
+- Health Potion (1AP): regain max(3d6) HP
+- Swiftness Potion (1AP): immediately gain 2d6 MP
+- Aqua Vitae(2AP): Shuffle ten random cards from your discard pile into your deck
+- Potion of Strength (1AP): Your physical attacks get a +2 bonus, and bashing attacks roll one
+  extra die. Duration 3 turns
+- Scroll of Contemplation (2AP): Draw six cards, then shuffle all but four of your cards into your deck
+
+
