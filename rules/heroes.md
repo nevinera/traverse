@@ -104,4 +104,8 @@ dungeon for the whole party to share (one party member must be capable of using 
 Unlike consumables, equipment may have a level or skill requirement on it.
 
 
+Some examples:
 
+- Chain Mail (req lvl 2): reduce MP recovery by 1, increase physical defense dice by one
+- Wicked Axe (req axes 2): +1 bonus to all axe attacks
+- Hiking Boots: you may treat red terrain as yellow.
