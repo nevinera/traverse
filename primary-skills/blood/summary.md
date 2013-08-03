@@ -14,7 +14,7 @@ Passive: after any blood attack that deals damage, roll a die. On 4+, gain 1 HP
 
 - Heart Burn x 6
 - Blood Surge x 5
-- Donor x 5
+- Transfusion x 5
 - Vampric Touch x 4
 - Drain Life x 3
 - Confuse x 2
