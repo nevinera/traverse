@@ -93,4 +93,16 @@ turn for free, and only pays its cost if and when he uses it.
   extra die. Duration 3 turns
 - Scroll of Contemplation (2AP): Draw six cards, then shuffle all but four of your cards into your deck
 
+## Artifacts and Equipment
+
+Unlike other cards, these are not shuffled into your deck. They typically have passive effects or
+add basic abilities, much like skill cards, and are placed in front of you during the game. You can
+own any number of equipment cards, but you can only bring two pieces with you (and only one can be
+a "weapon"). Equipment and artifacts can be found just like consumables, but you may select one
+piece of equipment after each dungeon for the whole party to share (one party member must be capable
+of using it to select it).
+
+Unlike consumables, equipment may have a level or skill requirement on it.
+
+
 
