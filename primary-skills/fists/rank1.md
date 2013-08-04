@@ -37,13 +37,15 @@ If no damage is dealt, lose all of your MP
 If damage is dealt, set this card aside.
 Add it back to your hand at the beginning of your next turn.
 
-#### Pumping Iron
+#### Building a Rhythm (x2)
 
 - Physical Enhancement
 - 0 AP
 
 Until the end of your turn, add to each physical attack you attempt
 one die for each previous physical attack you have attempted.
+
+#### Daunting Slap (x2)
 
 
 
