@@ -16,7 +16,7 @@ Passive: +1 physical defense die
 - Rabbit Punch x 5
 - Focused Strike x 5
 - Inspired Blow x 4
-- Pumping Iron x 2
+- Building a Rhythm x 2
 - Daunting Slap x 2
 - Critical Thinking x 2
 - Flurry of Blows x 2
