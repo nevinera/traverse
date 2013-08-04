@@ -21,4 +21,4 @@ Passive: +1 physical defense die
 - Critical Thinking x 2
 - Flurry of Blows x 2
 - Boot to the Head x 1
-- Drunken Defense x 1
+- Drunken Boxer x 1
