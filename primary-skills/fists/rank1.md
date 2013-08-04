@@ -47,6 +47,46 @@ one die for each previous physical attack you have attempted.
 
 #### Daunting Slap (x2)
 
+- Physical Attack
+- 2 AP
+- Melee
+- 2pb
 
+For each critical strike, target loses a physical defense die until your next turn.
 
+#### Critical Thinking (x2)
 
+- Physical Attack
+- 2 AP
+- Melee
+- 2pp
+
+If you land a critical hit, gain 2 AP
+
+#### Flurry of Blows (x2)
+
+- Physical Attack
+- 4 AP
+- Melee
+- 2pb, 2pb
+
+Attack one target twice. For each blow landed I the first attack, roll an
+extra die in the second.
+
+#### Boot to the Head (x1)
+
+- Physical Reaction
+- Melee
+- Play when: attacked by a unit in Melee range
+
+Perform a 2pb+1 attack against that unit. For each damage dealt, gain one
+defense die against his attack.
+
+#### Drunken Boxer (x1)
+
+- Physical Effect
+- 2 AP
+
+Until your next turn, gain a token for each physical attack against you.
+On your next turn, trade each token in for 2 AP.
+If you had any tokens, draw one extra card.
