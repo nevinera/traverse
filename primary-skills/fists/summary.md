@@ -10,6 +10,8 @@ striking.
 Passive: after playing one fists attack normally each turn, further fists attacks
 may be added to the bottom of your deck in any order, instead of your discard pile.
 
+Passive: +1 physical defense die
+
 - Fervent Strike x 6
 - Rabbit Punch x 5
 - Focused Strike x 5
