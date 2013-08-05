@@ -9,7 +9,7 @@ very efficient heroes.
 
 ## Rank One (30 cards)
 
-Active: at the beginning of your turn you may discard two cards to gain 'Bear Form'
+Active: at the beginning of your turn you may discard a card to gain 'Bear Form'
 until your next turn. Playing an card will remove this form, but while in it you gain
 two physical defense dice, lose one MP each turn, and your AO may be taken as a 3pb+1
 attack without using a card.
