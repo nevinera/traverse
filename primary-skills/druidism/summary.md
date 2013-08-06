@@ -9,12 +9,20 @@ very efficient heroes.
 
 ## Rank One (30 cards)
 
-Active: at the beginning of your turn you may discard a card to gain 'Bear Form'
-until your next turn. Playing an card will remove this form, but while in it you gain
-two physical defense dice, lose one MP each turn, and your AO may be taken as a 3pb+1
-attack without using a card.
+Passive: any time a healing spell would enter your discard pile, roll a die.
+On 5-6, you may put it on the bottom of your deck instead.
 
 Active: at the beginning of your turn you may discard one card to gain 'Cat Form'
 until your next turn. Playing any card will remove this form, but while in it you
-gain a +1 bonus to physical defense, 2 MP each turn, and your basic attack costs
-one less AP.
+gain a +1 bonus to Physcal attacks, and your basic attack costs one less AP.
+
+- Rejuvenate x 5
+- Healing Aura x 5
+- Spirit Link x 4
+- Regrowth x 4
+- Barkskin x 3
+- Cheetah Lore x 2
+- Owl Lore x 2
+- Ox Lore x 2
+- Swarm of Spiders x 2
+- Cleansing Rain x 1
