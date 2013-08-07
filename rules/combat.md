@@ -31,6 +31,17 @@ An attack proceeds as follows:
 - Each die showing a 5 or better is a 'block'
 - Damage dealt is equal to 'hits + 2 x crits - blocks'
 
+## Persistent Effects
+
+Many abilities say that something is true 'for X turns' or 'until their next turn'.
+Those cards do not produce an effect and then get discarded, they *are* the effect -
+until that effect ends, they will remain in front of whoever is being granted (or cursed
+with) the effect.
+
+Effects that last 'for X turns' or 'for X rounds' are placed in the appropriate location with
+X different counters on them - each time the condition is fulfilled (end of that player's turn,
+end of a round), remove one counter. When the last counter is removed, the card is discarded.
+
 ## Notation
 
 Attacks are generally more succinctly described - they typically look like "3pb+1" or "1mh".
@@ -65,11 +76,14 @@ In addition, some attacks have keyword bonuses:
 - Penetrating: target does not get to roll defense
 - Focused: all hits are critical
 
-## Satuses
+## Statuses
 
 There are some conditions that are used by many abilities - these are called 'statuses', and
 have their own card. When an ability applies a status, the unit with the status takes the appropriate
 status card and places it in front of them.
+
+If a card says to 'afflict' a target, put the actual card in front of that target like a status - it
+doesn't reach your discard pile until its effect ends.
 
 - Poisoned: at the start of each turn, roll 1d6: on a 1 lose 2 AP, on 2-4 take 1 damage, on 6 discard this card.
 - Stunned: at the start of your next turn, roll 2d6. If the total is above 10 nothing happens, if it's above seven
