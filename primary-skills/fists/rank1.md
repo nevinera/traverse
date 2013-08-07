@@ -9,7 +9,7 @@ Passive: +1 physical defense die
 - Physical Attack
 - 2 AP
 - Melee
-- 2pb
+- 2pb+1
 
 If damage is dealt, gain 1 AP
 
@@ -54,7 +54,7 @@ one die for each previous physical attack you have attempted.
 - Melee
 - 2pb
 
-For each critical strike, target loses a physical defense die until your next turn.
+For each hit, target loses a physical defense die until your next turn.
 
 #### Critical Thinking (x2)
 
@@ -68,12 +68,11 @@ If you land a critical hit, gain 2 AP
 #### Flurry of Blows (x2)
 
 - Physical Attack
-- 4 AP
+- 5 AP
 - Melee
-- 2pb, 2pb
+- 2pb, 2pb, 2pb
 
-Attack one target twice. For each blow landed I the first attack, roll an
-extra die in the second.
+Attack one target three times. For each blow landed, roll an extra die in the next attack this turn.
 
 #### Boot to the Head (x1)
 
@@ -81,8 +80,7 @@ extra die in the second.
 - Melee
 - Play when: attacked by a unit in Melee range
 
-Perform a 2pb+1 attack against that unit. For each damage dealt, gain one
-defense die against his attack.
+Perform a 2pb+2 attack against that unit. For each hit, gain one defense die against his attack.
 
 #### Drunken Boxer (x1)
 
@@ -90,5 +88,4 @@ defense die against his attack.
 - 2 AP
 
 Until your next turn, gain a token for each physical attack against you.
-On your next turn, trade each token in for 2 AP.
-If you had any tokens, draw one extra card.
+On your next turn, trade each token in for 2 AP. If you had any tokens, draw one extra card.
