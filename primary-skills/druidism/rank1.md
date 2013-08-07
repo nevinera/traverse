@@ -33,5 +33,22 @@ For your next three turns, all heroes within range(2) at the beginning of your t
 - 5 AP
 - Range(2)
 
-Choose two heroes in range(2): the next 10 damage dealt to either of them will be
+Choose two heroes in range(2): the next 12 damage dealt to either of them will be
 dealt to whichever of them you choose.
+
+#### Regrowth (x4)
+
+- Healing Spell
+- 5 AP
+- Range(3)
+
+Target immediately gains 5 HP, and *every* unit within range(2) of him gains 1 HP.
+
+#### Barkskin (x3)
+
+- Magical Effect
+- 2 AP
+- Range(2)
+
+Target hero gains 2 physical defense dice and a +1 bonus to all defense rolls for
+three turns.
