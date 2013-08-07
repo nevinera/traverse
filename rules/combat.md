@@ -57,6 +57,14 @@ failing die until it is a success, and then to the next-highest; you cannot choo
 it in some other fashion, though you may sometimes wish to. A 'natural' roll refers to the
 number actually visible on the die, but any other reference refers to the adjusted value.
 
+In addition, some attacks have keyword bonuses:
+
+- Knock-back: if any damage is dealt by this attack you may slide your target one square directly away from you.
+- Crushing: Natural 5s are considered 'critical' as well.
+- Poisoned: if any damage is dealt, causes the poisoned status (see below)
+- Penetrating: target does not get to roll defense
+- Focused: all hits are critical
+
 ## Satuses
 
 There are some conditions that are used by many abilities - these are called 'statuses', and
