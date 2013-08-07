@@ -13,7 +13,7 @@ The six primary skills, three ranks each of:
 
 - Fists, quick motions and fancy footwork, building up devastating combinations
 - Axes, slow and powerful, with high damage and cleaving attacks
-- Witchcraft, hexes and curses that weaken and damage their enemies slowly
+- Archery, tricks and traps, an evasive ranged warrior
 - Arcane, direct damage, deck manipulation, and countermagic
 - Druidism, shapeshifting physical combat with slow and gentle healing
 - Blood, life-drain and sacrifice for two-edged healing and protection
