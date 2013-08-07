@@ -52,3 +52,53 @@ Target immediately gains 5 HP, and *every* unit within range(2) of him gains 1 H
 
 Target hero gains 2 physical defense dice and a +1 bonus to all defense rolls for
 three turns.
+
+#### Cheetah Lore (x2)
+
+- Magical Reaction
+- Range(3)
+- Use when: target hero's turn begins
+
+That hero gains 6 MP and 2 AP
+
+#### Owl Lore (x2)
+
+- Magical Reaction
+- Range(3)
+- Use when: target hero would put a card in their discard pile
+
+That card instead goes back into their hand, and they may return up to two copies of it
+from their discard pile to the bottom of thei deck.
+
+#### Ox Lore (x2)
+
+- Magical Effect
+- 2 AP
+- Range(3)
+
+For three turns, every physical attack made by target hero has knock-back and crush.
+
+- Knock-back: if any damage is dealt by this attack you may slide your target one square directly away from you.
+- Crush: Natural 5s are considered 'critical' as well.
+
+#### Swarm of Spiders (x2)
+
+- Magical Attack
+- 3 AP
+- Minion(4)
+- 3mb
+
+If any damage is dealt, victim is 'poisoned'.
+
+Poisoned: at the start of your turn, roll 1d6: on a 1 lose 2 AP, on 2-4 take 1 damage, on 6 discard this card.
+
+#### Cleansing Rain (x1)
+
+- Healing Spell
+- 5 AP
+- Range(4)
+
+Targets a square in range(4), and affects all units within range(2) of that square. Allies gain 2 HP
+And may discard any harmful effects, but enemies discard any helpful effects on them and lose all of their
+initial MP next turn.
+
