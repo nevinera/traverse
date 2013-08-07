@@ -57,4 +57,13 @@ failing die until it is a success, and then to the next-highest; you cannot choo
 it in some other fashion, though you may sometimes wish to. A 'natural' roll refers to the
 number actually visible on the die, but any other reference refers to the adjusted value.
 
+## Satuses
 
+There are some conditions that are used by many abilities - these are called 'statuses', and
+have their own card. When an ability applies a status, the unit with the status takes the appropriate
+status card and places it in front of them.
+
+- Poisoned: at the start of each turn, roll 1d6: on a 1 lose 2 AP, on 2-4 take 1 damage, on 6 discard this card.
+- Stunned: at the start of your next turn, roll 2d6. If the total is above 10 nothing happens, if it's above seven
+  you lose 2 AP and 2 MP, otherwise you lose all AP and MP this turn.
+- Dazed: at the start of your next turn, lose all Of your MP.
