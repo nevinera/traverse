@@ -5,11 +5,11 @@ Passive: after any blood attack that deals damage, roll a die. On 4+, gain 1 HP
 #### Heart Burn (x6)
 
 - Spell Attack
-- 5 AP
+- 4 AP
 - Range(3)
 - 3mb+1
 
-For each damage dealt, roll a die - on 4+, one hero in range(3) gains 1 HP
+If damage dealt, one hero in range(3) gains 3 HP
 
 #### Blood Surge (x5)
 
@@ -35,7 +35,7 @@ Pay one HP: target ally in range(2) gains 1d6 HP
 - Spell Attack
 - 3 AP
 - Melee
-- 3md+1
+- 3md+2
 
 Gain 1 HP per damage dealt.
 May be defended as magical or physical.
@@ -47,6 +47,7 @@ May be defended as magical or physical.
 - Range(3)
 
 Afflict one enemy. At the start of their turn they roll 1d6:
+
     1-4: they lose 1 HP and you gain 1 HP
     5-6: discard this card
 
@@ -83,7 +84,7 @@ Gain 2 HP for each critical hit.
 - Play when: An ally in range(3) takes damage
 
 Pay 1d6 HP: that ally gains 2d6 HP.
-If you paid more than 4 life, also prevent the damage being dealt.
+If you paid more than 3 life, also prevent the damage being dealt.
 
 
 
