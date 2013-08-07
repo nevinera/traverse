@@ -89,3 +89,4 @@ doesn't reach your discard pile until its effect ends.
 - Stunned: at the start of your next turn, roll 2d6. If the total is above 10 nothing happens, if it's above seven
   you lose 2 AP and 2 MP, otherwise you lose all AP and MP this turn.
 - Dazed: at the start of your next turn, lose all Of your MP.
+- Defenseless: unit does not get to roll defense dice against any attack, lasts for one turn.
