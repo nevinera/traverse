@@ -57,9 +57,6 @@ Magical Effect, 2 AP, Range(3)
 
 For three turns, every physical attack made by target hero has knock-back and crushing.
 
-- Knock-back: if any damage is dealt by this attack you may slide your target one square directly away from you.
-- Crushing: Natural 5s are considered 'critical' as well.
-
 #### Swarm of Spiders (x2)
 
 Magical Attack, 3 AP, Minion(4), 3mb
