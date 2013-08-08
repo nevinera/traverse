@@ -75,6 +75,7 @@ In addition, some attacks have keyword bonuses:
 - Poisoned: if any damage is dealt, causes the poisoned status (see below)
 - Penetrating: target does not get to roll defense
 - Focused: all hits are critical
+- Flaming: if any damage is dealt, target is on fire.
 
 ## Statuses
 
@@ -90,3 +91,5 @@ doesn't reach your discard pile until its effect ends.
   you lose 2 AP and 2 MP, otherwise you lose all AP and MP this turn.
 - Dazed: at the start of your next turn, lose all Of your MP.
 - Defenseless: unit does not get to roll defense dice against any attack, lasts for one turn.
+- On Fire: at the beginning of target's turns, he chooses either to lose 3AP and 2 MP and remove this status,
+  or to take 1 damage.
