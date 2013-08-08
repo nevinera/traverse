@@ -18,7 +18,7 @@ If no damage is dealt, lose all of your AP
 
 #### Focused Strike (x5)
 
-Physical Attack, 2 AP, Melee, 2pb+1 or 1pp+3
+Physical Attack, 2 AP, Melee, 2pb+1 or 1pp+3, crushing
 
 #### Inspired Blow (x4)
 
@@ -36,7 +36,7 @@ one die for each previous physical attack you have attempted.
 
 #### Daunting Slap (x2)
 
-Physical Attack, 2 AP, Melee, 2pb+1
+Physical Attack, 2 AP, Melee, 2pb+1, knockback
 
 For each hit, target loses a physical defense die until your next turn.
 
