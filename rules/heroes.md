@@ -24,12 +24,12 @@ The six secondary skills, two ranks each of:
 - Power, which focuses on increasing the damage done by your spells and blows
 - Insight, for finding the card you need when you need it
 - Focus, which improves the odds and effects of critical strikes
-- Mobility, which allows you to move around the battlefield at will
-- Reflexes, so you can dodge attacks and take advantage of mistakes
+- Reflexes, so you can dodge attacks and move around the battlefield
+- Wisdom, to make your abilities and your deck last longer.
 
 ## Ranks
 
-Heroes start at level one with a rank 1 primary skill and another rank 1 skill,
+Heroes start at level one with a rank 1 primary skill and another rank 1 skill,P
 for a total of 40-60 cards (all heroes must pick different starting skills). After each
 dungeon is completed, every hero gains one new skill rank who's prerequisites he
 satisfies. Primary skills require level 1, 3, 5 for ranks 1, 2, and 3; secondary skills
