@@ -2,7 +2,7 @@
 
 Passive: +1 defense die against bashing attacks
 
-Passive: physical attacks against allies while adjacent to you provoke an AO from you
+Passive: physical attacks made against allies that are adjacent to you provoke an AO from you
 
 #### Taunt (x3)
 
@@ -23,7 +23,7 @@ for two rounds
 #### Bodyguard (x2)
 
 - Physical Reaction
-- Use when: an enemy attempts a physical attack against an adjacent ally
+- Use when: an enemy attempts a physical attack against an ally adjacent to you
 
 Swap places with that ally (does not provoke AO against either of you).
 The attack is now targeting you, and you get a +2 bonus on your defense roll.
