@@ -1,13 +1,18 @@
-Axes
+# Axes Rank 1
 
-Inate Ability
-	Once per turn,, you may roll 1 additional die.  If a 6 is rolled, you may replace a successful hit this turn with this die instead.
+Passive: Once per turn, you may roll a d6 after your attack roll. If you roll a 6, consider all hits in that attack to be critical.
+
+Passive: at the beginning of your turn you may opt to give all opponents a +2 bonus when attacking you to make all of your attacks crushing (critical on 5 or 6).
 
 
-Axes 1
+#### The Best Defense (x1)
 
-Response
-	1x	Against a physical melee attack, you may choose to roll 1 fewer defense die.  If you do, roll a 2dP melee attack against your attacker.  This is defended normally.
+Physical Reaction, play when Melee attacked
+
+Do not defend against this attack. Roll a 3pb melee attack against your attacker.
+
+
+
 
 3 AP
 	3x	2dP melee attack.  
