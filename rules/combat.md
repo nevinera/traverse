@@ -23,7 +23,7 @@ These other ranges do *not* require line-of-sight:
 
 An attack proceeds as follows:
 
-- The attackers rolls some dice
+- The attacker rolls some dice
 - Any bonuses he may have are distributed to the dice as needed.
 - Each die showing a 4 or better is a 'hit', natural sixes are 'critical strikes ('crits')
 - The defender rolls some dice
@@ -41,6 +41,8 @@ with) the effect.
 Effects that last 'for X turns' or 'for X rounds' are placed in the appropriate location with
 X different counters on them - each time the condition is fulfilled (end of that player's turn,
 end of a round), remove one counter. When the last counter is removed, the card is discarded.
+
+Unless otherwise stated, a bonus that is applied by a card lasts only through the completion of that one card's action.  For example, if a card that states "the target gets a +1 bonus to their defense" is played, the defense bonus would end once that card is resolved and would not extend into the next card played.
 
 ## Notation
 
