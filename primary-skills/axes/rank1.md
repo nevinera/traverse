@@ -54,7 +54,7 @@ all subsequent targets get a +1 bonus to their defense.
 
 3 AP, Physical Attack, Melee
 
-3dp melee; you may reroll this attack up to three times, but for each reroll all
+3PS melee; you may reroll this attack up to three times, but for each reroll all
 opponents gain a +1 bonus to physical attacks against you until your next turn.
 
 #### The Best Defense (x1)
