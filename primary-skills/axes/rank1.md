@@ -68,4 +68,5 @@ Do not defend against this attack. Roll a 3pb melee attack against your attacker
 Physical Attack, 5 AP + 3 MP
 
 Move up to 5 spaces in a straight line (do not trigger AO) - for each opponent you move across,
-take a 3ps+1 attack; if any damage is dealt, daze the target of that damage.
+take a 3ps+1 attack; if any damage is dealt, the target of that damage becomes dazed.
+If you occupy the same space as an opponent at the end of your movement, knockback that opponent to an adjacent square. That opponent becomes dazed regardless of damage dealt.
