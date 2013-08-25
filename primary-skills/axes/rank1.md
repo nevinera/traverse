@@ -41,7 +41,7 @@ all of your successful attack rolls are considered critical. 3ps melee attack.
 1 AP, Physical Effect
 
 For the three turns following this one, lose 2 health at the beginning of your turn,
-and all of your attacks get 2 extra dice and a +1 bonus.
+and all of your attacks get 2 extra dice and an additional +1 bonus.
 
 #### Whirlwind (x3)
 
