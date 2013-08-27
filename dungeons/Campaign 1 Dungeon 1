@@ -1,0 +1,49 @@
+Base map for opening dungeon
+
+Village is besot by goblin infestation and has had enough of the thieving.  Food is running low and pets and small children are starting to go missing.  They have hired you to decrease the numbers of pests around.  
+Bonus of some variety for full sweep of dungeon (healing potion or minor equipment)
+
+introducion round
+  predominantly small melee
+  miniboss = shaman - ranged magic
+  couple ranged physical
+  
+  include a few minor traps (tripwire, false floor, dart hole)
+  include 1 or 2 hazards (bonfire in center room, dung pit)
+  include 1 obstacle (barred door = attack door to get through.  If trying to flee, may present problem for heroes)
+  potentially include 1 empty room (they do exist, make 'em nervous)
+    -treasure (goblin treasure = largely junk) room?
+    
+    introduce few minor conditions
+      sleeping goblins / dazed
+      poison from wounds - 1 or 2 enemies, dung pit fall
+
+
+                                                _______________
+                                                |  10x10      |
+                                                | shaman      |                        _________
+                                                |             |                       |  5x5    | - contians 1 false floor tile
+                                                |             |                       |treasure | no enemies
+                                                _______________                       |_________|
+                                                      |   |                             =   =
+                                                      |   |                             =   =   = barred door between
+              __________________          _______________________________             ___________
+              |  10x10          |         |    16x16                    |             | 10x10   |
+              |                 |         |                             |             |         |
+              | knockback/trip  | _ _ _ _ |                             | _ _ _ _ _ _ |         |
+              |     enemy       | _ _ _ _ |                             | _ _ _ _ _ _ |         |
+              |  dung pit       |         |              fire           |             |         |
+              ___________________         |                             |             ___________
+                                          |                             |                     
+                                          |                             |
+                                          _______________________________
+                                                      |     |
+                                                      |     |
+                                                _________________
+                                                |    10x10      |
+                                                |               |
+                                                |               |
+                                                |               |
+                                                |_______________|
+                                                      |     |
+                                                      entrance
