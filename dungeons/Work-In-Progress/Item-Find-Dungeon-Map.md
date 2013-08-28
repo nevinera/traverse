@@ -1,7 +1,8 @@
-Basic Aski for item seek & find dungeon
+# Dungeon for searching for a relic
 
+## Map
 
-
+```text
                     _________________             _________________                   _______________
                     |               |             |               |                   |             |
                     |               |             |               |                   |             |
@@ -32,3 +33,9 @@ Basic Aski for item seek & find dungeon
                                                       | entry   |
                                                       |         |
                                                       ___________
+```
+
+## Working Notes
+
+- This is just the map for a dungeon
+- We aren't sure where we'll be using it yet.

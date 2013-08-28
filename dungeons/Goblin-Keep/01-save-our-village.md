@@ -4,28 +4,9 @@ The village of Sormic is beset by goblins, and has had enough of their thieving.
 Food is running low and pets and small children have recently gone missing.
 They have hired you to decrease the numbers of the beastly little creatures.
 
-### Notes
-
-Bonus of some variety for full sweep of dungeon (healing potion or minor equipment)
-
-#### Introduction round
-- predominantly small melee
-- miniboss = shaman - ranged magic
-- couple ranged physical
-
-#### Overall
-- include a few minor traps (tripwire, false floor, dart hole)
-- include 1 or 2 hazards (bonfire in center room, dung pit)
-- include 1 obstacle (barred door = attack door to get through.  If trying to flee, may present problem for heroes)
-- potentially include 1 empty room (they do exist, make 'em nervous)
-- treasure (goblin treasure = largely junk) room?   
-- introduce few minor conditions
-  - sleeping goblins / dazed
-  - poison from wounds - 1 or 2 enemies, dung pit fall
-
-
 ## Map
 
+```text
                                                 _______________
                                                 |  10x10      |
                                                 | shaman      |                        _________
@@ -41,7 +22,7 @@ Bonus of some variety for full sweep of dungeon (healing potion or minor equipme
               |     enemy       | _ _ _ _ |                             | _ _ _ _ _ _ |         |
               |  dung pit       |         |              fire           |             |         |
               ___________________         |                             |             ___________
-                                          |                             |                     
+                                          |                             |
                                           |                             |
                                           _______________________________
                                                       |     |
@@ -54,3 +35,25 @@ Bonus of some variety for full sweep of dungeon (healing potion or minor equipme
                                                 |_______________|
                                                       |     |
                                                       entrance
+```
+
+## Working Notes
+
+Bonus of some variety for full sweep of dungeon (healing potion or minor equipment)
+
+#### Introduction round
+- predominantly small melee
+- miniboss = shaman - ranged magic
+- couple ranged physical
+
+#### Overall
+- include a few minor traps (tripwire, false floor, dart hole)
+- include 1 or 2 hazards (bonfire in center room, dung pit)
+- include 1 obstacle (barred door = attack door to get through.  If trying to flee, may present problem for heroes)
+- potentially include 1 empty room (they do exist, make 'em nervous)
+- treasure (goblin treasure = largely junk) room?
+- introduce few minor conditions
+  - sleeping goblins / dazed
+  - poison from wounds - 1 or 2 enemies, dung pit fall
+
+

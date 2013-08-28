@@ -1,8 +1,9 @@
-Base File for opening campaign
+# Dungeon A02: Trapped!
 
-General 2nd dungeon shape
-  
-  
+
+## Map
+
+```text
                                                                         ________________
         _____                       ___________________                 |               |
         |     |                     |                   |            __ |               |
@@ -20,6 +21,12 @@ General 2nd dungeon shape
             | |                                                           |             |
             | |                                                           _______________
           _______                       _________
-          |       |                     | entry   |                     
+          |       |                     | entry   |
           |       | _ _ _ _ _ _ _ _ _ _ |         |
           _________ _ _ _ _ _ _ _ _ _ _ __________|
+```
+
+## Working Notes:
+
+- nothing here yet
+- but come back later
