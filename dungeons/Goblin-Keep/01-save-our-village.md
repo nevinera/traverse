@@ -56,4 +56,11 @@ Bonus of some variety for full sweep of dungeon (healing potion or minor equipme
   - sleeping goblins / dazed
   - poison from wounds - 1 or 2 enemies, dung pit fall
 
+### Monsters
 
+#### Goblin Raider
+
+3 MP, 3 AP, 4 HP
+
+- Stab: 3AP, 2pp. If target has at least one othe goblin adjacent to them, +1 bonus to the attack.
+- Scurry: 3Ap, gain 5MP
