@@ -2,7 +2,7 @@
 
 Passive: each turn befor you draw to full, you may look at and rearrange the top three cards on your deck
 
-Passive: any time you play an ability that costs AP, you may pay two extra AP and discard another card to put the played card on the bottom of your deck instead of in the discard pile.
+Passive: any time you play an ability that costs AP, you may pay one extra AP and discard another card to put the played card on the bottom of your deck instead of in the discard pile.
 
 #### Guided Hand (x2)
 
