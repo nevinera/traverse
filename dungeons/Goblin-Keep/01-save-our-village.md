@@ -22,7 +22,7 @@ introducion round
                                                 _______________
                                                 |  10x10      |
                                                 | shaman      |                        _________
-                                                |             |                       |  5x5    | - contians 1 false floor tile
+                                                |             |                       |  5x5    | - contians 1 false tile
                                                 |             |                       |treasure | no enemies
                                                 _______________                       |_________|
                                                       |   |                             =   =
