@@ -1,23 +1,30 @@
-Base map for opening dungeon
+# Dungeon A01: Save Our Village!
 
-Village is besot by goblin infestation and has had enough of the thieving.  Food is running low and pets and small children are starting to go missing.  They have hired you to decrease the numbers of pests around.  
+The village of Sormic is beset by goblins, and has had enough of their thieving.
+Food is running low and pets and small children have recently gone missing.
+They have hired you to decrease the numbers of the beastly little creatures.
+
+### Notes
+
 Bonus of some variety for full sweep of dungeon (healing potion or minor equipment)
 
-introducion round
-  predominantly small melee
-  miniboss = shaman - ranged magic
-  couple ranged physical
-  
-  include a few minor traps (tripwire, false floor, dart hole)
-  include 1 or 2 hazards (bonfire in center room, dung pit)
-  include 1 obstacle (barred door = attack door to get through.  If trying to flee, may present problem for heroes)
-  potentially include 1 empty room (they do exist, make 'em nervous)
-    -treasure (goblin treasure = largely junk) room?
-    
-    introduce few minor conditions
-      sleeping goblins / dazed
-      poison from wounds - 1 or 2 enemies, dung pit fall
+#### Introduction round
+- predominantly small melee
+- miniboss = shaman - ranged magic
+- couple ranged physical
 
+#### Overall
+- include a few minor traps (tripwire, false floor, dart hole)
+- include 1 or 2 hazards (bonfire in center room, dung pit)
+- include 1 obstacle (barred door = attack door to get through.  If trying to flee, may present problem for heroes)
+- potentially include 1 empty room (they do exist, make 'em nervous)
+- treasure (goblin treasure = largely junk) room?   
+- introduce few minor conditions
+  - sleeping goblins / dazed
+  - poison from wounds - 1 or 2 enemies, dung pit fall
+
+
+## Map
 
                                                 _______________
                                                 |  10x10      |
