@@ -23,7 +23,7 @@ For your next three turns, all heroes within range(2) at the beginning of your t
 
 Magical Effect, 5 AP, Range(2)
 
-Choose two heroes in range(2): the next 12 damage dealt to either of them will be
+Choose two heroes in range(2): the next 8 damage dealt to either of them will be
 dealt to whichever of them you choose.
 
 #### Regrowth (x4)
