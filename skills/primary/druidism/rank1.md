@@ -49,7 +49,7 @@ That hero gains 6 MP and 2 AP
 Magical Reaction, Range(3), Use when target hero would put a card in their discard pile
 
 That card instead goes back into their hand, and they may return up to two copies of it
-from their discard pile to the bottom of thei deck.
+from their discard pile to the bottom of thei deck. Remove this card from the game when played.
 
 #### Ox Lore (x2)
 
