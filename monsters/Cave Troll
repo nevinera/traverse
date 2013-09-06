@@ -1,0 +1,11 @@
+Cave Troll
+    Large
+    
+9 HP, 2 MP, 6 AP, 2pdef, 1 mdef
+
+Cudgel Swing: 5 AP: 2pB, knockback
+              Affects target square & 2 squares adjacent to both target and troll
+              
+Swat: 3AP: 2pB+1
+
+Type: Troll
