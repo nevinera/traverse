@@ -1,0 +1,12 @@
+Goblin Scout
+
+3 HP, 4 AP, 3 MP, 1pdef, 0 mdef
+
+Sling Shot: 3 AP: 2pB+1, R(3)
+
+Scratch: 2 AP: 2pS
+
+Aimed Shot: 4 AP: 1pB+1, R(2)
+            If damage is dealt, the target becomes dazed
+            
+Type: Goblin
