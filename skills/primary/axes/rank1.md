@@ -20,8 +20,8 @@ Passive: at the beginning of your turn you may opt to give all opponents a +2 bo
 
 5 AP, Physical Attack, Melee
 
-1ps+1 melee attack. For each adjacent enemy beyond the first, you may add two dice to your attack. Your *opponent*
-chooses which of those enemies you are targetting after seeing your roll.
+1ps+1 melee attack against a single enemy. For each targetable enemy beyond the first, you may add two
+dice to your attack. Your *opponent* chooses which of those targetable enemies you are targeting after seeing your roll.
 
 #### Cry of Challenge (x4)
 
