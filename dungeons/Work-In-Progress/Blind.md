@@ -18,7 +18,7 @@ in the eternal night of the subterranean.
   * high knockback - potential monster chain if hero knocked back into other monster radius
   * mostly midlevel monsters = moderate HP & armor, slightly above avg magic use
   * mostly non-humanoid
-<ln>
+
   **Cave Troll
   **Whisp
   **Rock Wurm
