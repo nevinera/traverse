@@ -1,0 +1,13 @@
+Giant Centipede
+
+8 HP, 4 AP, 4 MP, 1pdef, 1mdef
+
+Charge: 4 AP: 2pB + (bonues = #of squares moved), (knockback = bonus - 1)
+          Giant Centipede may use MP in charge, but must move in stright line
+          
+Skitter: 2 AP:  If outside of Hero's light radius, giant centipede may be removed from board 
+                and re-enter at new location 1 square outside of current light radius
+                
+Scratch:  2pS x2
+
+Type: Insect
