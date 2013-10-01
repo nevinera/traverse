@@ -1,0 +1,12 @@
+Whisp
+
+3 HP, 4 AP, 2 MP, -pdef, 2mdef
+
+*Whisp can only be hurt by magic attacks*
+
+Shocking Touch: 3 AP: Whisp can move through an occupied space until its next turn. 
+      When whisp and another creature (hero or monster) occupy the same space, whisp attacks with 2mE (2 magic Elemental)
+
+Glow: 4 AP: create light radius of 2 squares.
+    In "Blind" this can activate other monsters
+    
