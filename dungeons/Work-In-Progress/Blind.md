@@ -13,6 +13,7 @@ in the eternal night of the subterranean.
   - Monsters get surprise attack when discovered then remain on board
     - Heroes turn pauses with current spending and monster turn begins.  Once monster turn complete, heroe's turn resumes
   - Hero movement points spent individually (to allow for monster reveals if necessary)
+  - Torches extend light radius by 1 square and reduce enemy pdef by 1
   
 ### Monsters
   * high knockback - potential monster chain if hero knocked back into other monster radius
