@@ -19,6 +19,12 @@ in the eternal night of the subterranean.
   * mostly midlevel monsters = moderate HP & armor, slightly above avg magic use
   * mostly non-humanoid
   
+  Cave Troll
+  Whisp
+  Rock Wurm
+  Giant Centipede
+  Living Mite
+  
 ### Traps / Obstacles
   - pits (work with knockback)
   - pillars = +1 dmg if knocked into
