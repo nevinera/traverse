@@ -18,12 +18,12 @@ in the eternal night of the subterranean.
   * high knockback - potential monster chain if hero knocked back into other monster radius
   * mostly midlevel monsters = moderate HP & armor, slightly above avg magic use
   * mostly non-humanoid
-  
-  Cave Troll
-  Whisp
-  Rock Wurm
-  Giant Centipede
-  Living Mite
+  \\
+  **Cave Troll
+  **Whisp
+  **Rock Wurm
+  **Giant Centipede
+  **Living Mite
   
 ### Traps / Obstacles
   - pits (work with knockback)
