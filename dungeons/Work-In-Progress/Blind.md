@@ -5,14 +5,15 @@ Basis is for deep in mountain / cave where no light available.
 
 ### Story
 You've escaped ________ and now find yourselves in what you believe to be the heart of the mountain, far away from the 
-light of day and goblin fires.  With only certain death behind you, you press on not knowing what new dangers await you 
-in the eternal night of the subterranean.
+light of day and goblin fires.  You can make out dim shapes all around you, but only a closer inspection will reveal their identity.
+With only certain death behind you, you press on not knowing what new dangers await you in the eternal twilight.
 
 ### Special Rules 
-  - Visbility is 2 squares radius
+  - Visbility is 2 squares radius.  Once a marker is within this radius, (reveal) turn it over and proceed accordingly
   - Monsters get surprise attack when discovered then remain on board
     - Heroes turn pauses with current spending and monster turn begins.  Once monster turn complete, heroe's turn resumes
-  - Hero movement points spent individually (to allow for monster reveals if necessary)
+  - Generic Tokens placed on map facedown for monsters, traps, treasures, and exit
+    - revealed once hero (or whisp) approaches
   - Torches extend light radius by 1 square and reduce enemy pdef by 1
   
 ### Monsters
@@ -29,6 +30,7 @@ in the eternal night of the subterranean.
 ### Traps / Obstacles
   - pits (work with knockback)
   - pillars = +1 dmg if knocked into
+    - pillars marked with non-generic icon (Ex. wooden cube)
   
 ### Map
   W = pillar
